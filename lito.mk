@@ -71,6 +71,7 @@ PRODUCT_PACKAGES += \
     audio.usb.default \
 
 PRODUCT_PACKAGES += \
+    libaudioroute-v34 \
     libaudiopreprocessing \
     libbatterylistener \
     libbundlewrapper \
@@ -209,6 +210,7 @@ PRODUCT_PACKAGES += \
     libsdmcore \
     libsdmutils \
     libtinyxml \
+    libtinyxml2-v34 \
     libvulkan
 
 # DRM
